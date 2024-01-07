@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <table>
     <tbody>
         <tr>
@@ -27,3 +28,4 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
+-->
