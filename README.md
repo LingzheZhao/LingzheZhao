@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LingzheZhao&include_orgs=true&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=LingzheZhao&include_orgs=true&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+    <tbody>
+        <tr>
+            <td width="50%" align="center">
+                <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LingzheZhao&include_orgs=true&count_private=true&show_icons=true&theme=nightowl"></a>
+            </td>
+            <td width="50%" align="center">
+                <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingzheZhao&include_orgs=true&count_private=true&theme=nightowl&layout=compact"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
